@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #2980b9, #8e44ad);
+  }
+  input {
+      padding: 10px;
+      width: 100%;
+      border-radius: 5px;
+    }
+    
+    select {
+      padding: 10px;
+      width: 100%;
+      border-radius: 5px;
+    }
+    
+    
+    #headerSection {
+      padding: 40px;
+      font-size: 35px;
+      color: white;
+    }
+
+
+    
+    #loginSection {    
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      width: 400px;
+      padding: 5px;
+      background: white;
+      border-radius: 10px;
+    }
+  #loginSection h2{
+      text-align: center;
+  }
+
+  #loginSection form{
+      padding: 0 60px;
+  }
+    
+    #loginbtn {
+      padding: 10px;
+      font-size: 15px;
+      width: 100%;
+      background: #2691d9;
+      color: white;
+      border: 1px solid;
+      cursor: pointer;
+      border-radius: 20px;
+    }
+    #reg_link{
+        text-align: center;
+    }
+    
+    #regsection{
+        width: 30%;
+    }
+
+    
+    a {
+      text-decoration: none;
+    }
+    

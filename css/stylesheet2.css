@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #2980b9, #8e44ad);
+  }
+#regheaderSection{
+  padding: 30px;
+  font-size: 25px;
+  color: white;
+}
+#reglink {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  input {
+    padding: 10px;
+    width: 10%;
+    border-radius: 5px;
+  }
+  #upload {
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+  }
+  #regbtn {
+    padding: 10px;
+    font-size: 15px;
+    width: 10%;
+    background: #2691d9;
+    color: white;
+    border: 1px solid;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  #upload select{
+      padding: 5px;
+      border-radius: 5px;
+  }
+  #upload input{
+    padding: 10px;
+    border-radius: 10px;
+}

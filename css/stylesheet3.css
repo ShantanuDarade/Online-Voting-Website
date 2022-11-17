@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #2980b9, #8e44ad);
+  }
+#mainSection h1{
+    padding: 10px;
+  }
+  
+  #headerSection{
+      padding: 20px;
+      font-size: 25px;
+      color: white;
+  }
+  #profileSection {
+    width: 30%;
+    float: left;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  #groupSection {
+    width: 60%;
+    float: right;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  #back-button {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 7px;
+    font-size: 15px;
+    background-color: lightblue;
+    color: black;
+    border-radius: 10px;
+  }
+  
+  #logout-button {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 7px;
+    font-size: 15px;
+    background-color: lightblue;
+    color: black;
+    border-radius: 10px;
+  }
